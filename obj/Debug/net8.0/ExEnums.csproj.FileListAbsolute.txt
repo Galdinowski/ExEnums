@@ -1,0 +1,15 @@
+/home/dinolinux/CodigosMeus/C#/ExEnums/obj/Debug/net8.0/ExEnums.GeneratedMSBuildEditorConfig.editorconfig
+/home/dinolinux/CodigosMeus/C#/ExEnums/obj/Debug/net8.0/ExEnums.AssemblyInfoInputs.cache
+/home/dinolinux/CodigosMeus/C#/ExEnums/obj/Debug/net8.0/ExEnums.AssemblyInfo.cs
+/home/dinolinux/CodigosMeus/C#/ExEnums/obj/Debug/net8.0/ExEnums.csproj.CoreCompileInputs.cache
+/home/dinolinux/CodigosMeus/C#/ExEnums/obj/Debug/net8.0/ExEnums.sourcelink.json
+/home/dinolinux/CodigosMeus/C#/ExEnums/bin/Debug/net8.0/ExEnums
+/home/dinolinux/CodigosMeus/C#/ExEnums/bin/Debug/net8.0/ExEnums.deps.json
+/home/dinolinux/CodigosMeus/C#/ExEnums/bin/Debug/net8.0/ExEnums.runtimeconfig.json
+/home/dinolinux/CodigosMeus/C#/ExEnums/bin/Debug/net8.0/ExEnums.dll
+/home/dinolinux/CodigosMeus/C#/ExEnums/bin/Debug/net8.0/ExEnums.pdb
+/home/dinolinux/CodigosMeus/C#/ExEnums/obj/Debug/net8.0/ExEnums.dll
+/home/dinolinux/CodigosMeus/C#/ExEnums/obj/Debug/net8.0/refint/ExEnums.dll
+/home/dinolinux/CodigosMeus/C#/ExEnums/obj/Debug/net8.0/ExEnums.pdb
+/home/dinolinux/CodigosMeus/C#/ExEnums/obj/Debug/net8.0/ExEnums.genruntimeconfig.cache
+/home/dinolinux/CodigosMeus/C#/ExEnums/obj/Debug/net8.0/ref/ExEnums.dll

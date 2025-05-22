@@ -1,4 +1,5 @@
 using System;
+using Menu.Entities.Enums;
 
 
 
@@ -17,17 +18,17 @@ namespace Menu.Entities
 
         }
 
-        public HourContract(DateTime date, double valuePerHours, int hours)
+        public HourContract(DateTime date, double valuePerHours, int hour)
         {
             Date = date;
             ValuePerHours = valuePerHours;   
-            Hours = hours
+            Hours = hour;
         }
 
 
         public double TotalValue()
         {
-            return valuePerHours * Hours;
+            return ValuePerHours * Hours;
         }
     }
 }
